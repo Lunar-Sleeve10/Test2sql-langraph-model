@@ -1,0 +1,11 @@
+# Core
+litellm>=1.40.0
+langgraph>=0.2.0
+gradio>=4.40.0
+
+# Data / visualization
+pandas>=2.0.0
+plotly>=5.20.0
+
+# Environment variables
+python-dotenv>=1.0.0
